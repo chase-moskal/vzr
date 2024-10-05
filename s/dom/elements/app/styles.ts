@@ -7,5 +7,12 @@ export default css`
 	display: block;
 }
 
+canvas {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+}
+
 `
 

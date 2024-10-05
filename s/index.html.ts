@@ -24,7 +24,6 @@ export default template(async basic => {
 			})}
 		`,
 		body: html`
-			<h1>vzr</h1>
 			<game-app></game-app>
 		`,
 	})
